@@ -7,7 +7,7 @@ This folder contains practical 2 codes.
 * gcc Conversion.c -o ConversionC -lm
 * gcc sum.c -o sumC -lm
 
-##Execute:
+## Execute:
 
 * ./ConversionC
 
