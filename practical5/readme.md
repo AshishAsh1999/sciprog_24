@@ -12,6 +12,7 @@ execute:
 
 Please enter a positive real number delta:
 0.1
+
 The dif. at x=-0.900000 is 0.0969918969
 The dif. at x=-0.890000 is 0.0858465246
 The dif. at x=-0.880000 is 0.0760896735
