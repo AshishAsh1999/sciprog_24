@@ -12,7 +12,7 @@ output:
 
 This is matrix A
 
-   0   1   2 \n
+   0   1   2 
    1   2   3
    2   3   4
    3   4   5
