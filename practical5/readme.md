@@ -103,6 +103,7 @@ The dif. at x=-0.040000 is 0.0005335611
 The dif. at x=-0.030000 is 0.0003000720
 The dif. at x=-0.020000 is 0.0001333476
 The dif. at x=-0.010000 is 0.0000333342
+
 The dif. at x=0.000000 is 0.0364583333
 The dif. at x=0.010000 is 0.0000333342
 The dif. at x=0.020000 is 0.0001333476
@@ -197,7 +198,8 @@ The dif. at x=0.890000 is 0.0858465246
 
 Please input a positive integer n
 10
- the fib series is:
+ 
+The fib series is:
 0, 1 1 2 3 5 8 13 21 34
 55
 
