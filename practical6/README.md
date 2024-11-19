@@ -1,6 +1,6 @@
 This is practical 6 code
 
-Step 6 compile:
+compile:
 gcc -c main.c
 gcc -c matmult.c
 gcc -o matmultC main.o matmult.o
